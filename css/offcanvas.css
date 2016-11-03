@@ -13,6 +13,16 @@ footer {
   padding: 30px 0;
 }
 
+.content {
+  padding: 20px;
+  overflow: hidden;
+}
+
+.content img {
+  margin-right: 15px;
+  float: left;
+}
+
 /*
  * Off Canvas
  * --------------------------------------------------
