@@ -8,9 +8,28 @@ body {
 }
 body {
   padding-top: 70px;
+  /*background-color: #85a6db;*/
 }
 footer {
   padding: 30px 0;
+}
+
+h2 {
+  margin-top: 65px;
+  /*color: #85a6db;*/
+}
+
+h3 {
+  color: #85a6db;
+}
+
+.jumbotron {
+  /*background-color: transparent;*/
+  border: 2px solid #85a6db;
+}
+
+.jumbotron h3 {
+  color: #ff7505;
 }
 
 .content {
@@ -21,6 +40,23 @@ footer {
 .content img {
   margin-right: 15px;
   float: left;
+  /*border: 1px solid orange;*/
+}
+
+#resume img {
+  border: 3px solid #ff7505;
+}
+
+#resume .btn {
+  border-color: #cccccc;
+}
+
+.btn {
+  border-color: #ff7505;
+}
+
+.footer {
+  background-color: black;
 }
 
 /*
