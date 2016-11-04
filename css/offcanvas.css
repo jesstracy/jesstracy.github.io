@@ -67,7 +67,8 @@ h4, h5 {
   border: 2px solid #ff7505;
   /*background-color: #ffd5b4;*/
   background-color: #ffe3cd;
-  margin: 5px;
+  margin: auto;
+  margin-bottom: 5px;
 }
 
 .circle h3 {
