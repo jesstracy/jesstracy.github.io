@@ -52,7 +52,27 @@ h4, h5 {
 }
 
 #resume .btn {
-  border-color: #cccccc;
+  /*border-color: #cccccc;*/
+  border-color: #85a6db;
+}
+
+/*#resume h3 {
+  color: #ff7505;
+}*/
+
+.circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 50em;
+  border: 2px solid #ff7505;
+  /*background-color: #ffd5b4;*/
+  background-color: #ffe3cd;
+  margin: 5px;
+}
+
+.circle h3 {
+  padding-top: 40px;
+  color: #85a6db;
 }
 
 .btn {
