@@ -33,7 +33,8 @@ h4, h5 {
 }
 
 .jumbotron h3 {
-  color: #ff7505;
+  /*color: #ff7505;*/
+  color: #ff9e50;
 }
 
 .content {
