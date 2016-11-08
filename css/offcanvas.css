@@ -8,9 +8,129 @@ body {
 }
 body {
   padding-top: 70px;
+  /*background-color: #85a6db;*/
 }
 footer {
   padding: 30px 0;
+}
+
+h2 {
+  margin-top: 65px;
+  /*color: #85a6db;*/
+}
+
+h3 {
+  color: #85a6db;
+}
+
+h4, h5 {
+  color: gray;
+}
+
+.jumbotron {
+  /*background-color: transparent;*/
+  border: 2px solid #85a6db;
+}
+
+.jumbotronBottom {
+  border: 2px solid #ff7505;
+}
+
+.jumbotron h3 {
+  /*color: #ff7505;*/
+  color: #ff9e50;
+}
+
+.jumbotronBottom h3 {
+  color: #85a6db;
+}
+
+.content {
+  padding: 20px;
+  overflow: hidden;
+}
+
+.content img {
+  margin-right: 15px;
+  float: left;
+  /*border: 1px solid orange;*/
+}
+
+.roundedImage {
+    border-radius: 25em;
+}
+
+.contentModified {
+    height: auto;
+}
+
+.contentModified img {
+    margin-right: 15px;
+    float: left;
+}
+
+#resume img {
+  border: 3px solid #ff7505;
+}
+
+#resume .btn {
+  /*border-color: #cccccc;*/
+  /*border-color: #85a6db;*/
+}
+
+.skills {
+  text-align: center;
+}
+
+.skills p {
+    font-size: 20px;
+    color: #85a6db;
+}
+
+.firstInsideDiv {
+    width: 350px;
+    margin: 0 auto;
+}
+
+.insideDiv {
+    width: 50px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/*#resume h3 {
+  color: #ff7505;
+}*/
+
+.circle {
+  width: 150px;
+  height: 150px;
+  border-radius: 50em;
+  border: 2px solid #ff7505;
+  /*background-color: #ffd5b4;*/
+  background-color: #ffe3cd;
+  margin: auto;
+  margin-bottom: 5px;
+}
+
+.circle h3 {
+  padding-top: 40px;
+  color: #85a6db;
+}
+
+.btn {
+  border-color: #ff7505;
+}
+
+.contactdiv {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.footer {
+  background-color: black;
 }
 
 /*
