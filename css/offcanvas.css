@@ -32,9 +32,17 @@ h4, h5 {
   border: 2px solid #85a6db;
 }
 
+.jumbotronBottom {
+  border: 2px solid #ff7505;
+}
+
 .jumbotron h3 {
   /*color: #ff7505;*/
   color: #ff9e50;
+}
+
+.jumbotronBottom h3 {
+  color: #85a6db;
 }
 
 .content {
@@ -48,13 +56,46 @@ h4, h5 {
   /*border: 1px solid orange;*/
 }
 
+.roundedImage {
+    border-radius: 25em;
+}
+
+.contentModified {
+    height: auto;
+}
+
+.contentModified img {
+    margin-right: 15px;
+    float: left;
+}
+
 #resume img {
   border: 3px solid #ff7505;
 }
 
 #resume .btn {
   /*border-color: #cccccc;*/
-  border-color: #85a6db;
+  /*border-color: #85a6db;*/
+}
+
+.skills {
+  text-align: center;
+}
+
+.skills p {
+    font-size: 20px;
+    color: #85a6db;
+}
+
+.firstInsideDiv {
+    width: 350px;
+    margin: 0 auto;
+}
+
+.insideDiv {
+    width: 50px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 /*#resume h3 {
@@ -79,6 +120,13 @@ h4, h5 {
 
 .btn {
   border-color: #ff7505;
+}
+
+.contactdiv {
+    width: 80%;
+    height: auto;
+    margin: auto;
+    border: 1px solid black;
 }
 
 .footer {
